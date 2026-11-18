@@ -74,3 +74,18 @@ originale dell'API.
 
 Ho salvato progressivamente il lavoro attraverso
 diversi commit Git.
+
+### Verifiche finali e correzioni
+
+Ho fornito all'AI i documenti guida-iniziale.md
+e requisiti-nuova-consegna.md per verificare il rispetto
+di tutte le richieste del docente.
+
+- Ho verificato il messaggio di errore rinominando
+  temporaneamente il file sedi.json.
+- Ho verificato nuovamente il funzionamento dell'API meteo.
+- Ho aggiunto una frase per chiarire che i dati meteo
+  riguardano il giorno attuale e non le date del festival.
+- Ho ripristinato i dati originali dopo i test.
+- Ho organizzato la cartella progettazione con i file
+  moodboard.pdf e resoconto-ai.md.
